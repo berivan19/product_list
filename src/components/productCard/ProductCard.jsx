@@ -37,7 +37,7 @@ const handleLikeClick = () => {
       <Card.Img className='img' variant="top" src= {item.image}/>
       
 
-      <div className="title">
+      <div className="title bg-secondary">
                             <p>{item.title}</p>
 
                         </div>
